@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" style="font-family: 'Courier New', Courier, monospace; background-color: #1e1e1e; width: 100%; height: auto; border-radius: 8px;">
+  <rect x="0" y="0" width="600" height="40" fill="#3c3c3c" />
+  <circle cx="20" cy="20" r="10" fill="#ff5f56" />
+  <circle cx="50" cy="20" r="10" fill="#ffbd2e" />
+  <circle cx="80" cy="20" r="10" fill="#27c93f" />
+  <rect x="0" y="40" width="600" height="260" fill="#2d2d2d" />
+  <text x="20" y="80" font-size="14" fill="#9cdcfe">user@localhost:~$</text>
+  <text x="170" y="80" font-size="14" fill="#d4d4d4">echo "Hello World!"</text>
+  <text x="20" y="110" font-size="14" fill="#dcdcaa">Hello World!</text>
+  <text x="20" y="140" font-size="14" fill="#9cdcfe">user@localhost:~$</text>
+</svg>
